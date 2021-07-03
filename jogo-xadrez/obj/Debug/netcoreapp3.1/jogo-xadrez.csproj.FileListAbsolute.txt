@@ -1,0 +1,13 @@
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\bin\Debug\netcoreapp3.1\jogo-xadrez.exe
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\bin\Debug\netcoreapp3.1\jogo-xadrez.deps.json
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\bin\Debug\netcoreapp3.1\jogo-xadrez.runtimeconfig.json
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\bin\Debug\netcoreapp3.1\jogo-xadrez.runtimeconfig.dev.json
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\bin\Debug\netcoreapp3.1\jogo-xadrez.dll
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\bin\Debug\netcoreapp3.1\jogo-xadrez.pdb
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\obj\Debug\netcoreapp3.1\jogo-xadrez.csproj.AssemblyReference.cache
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\obj\Debug\netcoreapp3.1\jogo-xadrez.AssemblyInfoInputs.cache
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\obj\Debug\netcoreapp3.1\jogo-xadrez.AssemblyInfo.cs
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\obj\Debug\netcoreapp3.1\jogo-xadrez.csproj.CoreCompileInputs.cache
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\obj\Debug\netcoreapp3.1\jogo-xadrez.dll
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\obj\Debug\netcoreapp3.1\jogo-xadrez.pdb
+C:\Users\joaob\Documents\Visual Studio 2019\jogo-xadrez\jogo-xadrez\obj\Debug\netcoreapp3.1\jogo-xadrez.genruntimeconfig.cache
