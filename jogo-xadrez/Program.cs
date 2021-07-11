@@ -15,6 +15,7 @@ namespace jogo_xadrez
                 {
                     try
                     {
+
                         Console.Clear();
                         Tela.imprimirPartida(partida);
                         Console.WriteLine();
